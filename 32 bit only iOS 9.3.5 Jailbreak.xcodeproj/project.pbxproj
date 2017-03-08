@@ -16,6 +16,7 @@
 		AA6A819D1E53EBE700F3C71B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA6A819B1E53EBE700F3C71B /* LaunchScreen.storyboard */; };
 		AA6A81A81E53EBE700F3C71B /* _2_bit_only_iOS_9_3_5_JailbreakTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AA6A81A71E53EBE700F3C71B /* _2_bit_only_iOS_9_3_5_JailbreakTests.m */; };
 		AA6A81B31E53EBE700F3C71B /* _2_bit_only_iOS_9_3_5_JailbreakUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AA6A81B21E53EBE700F3C71B /* _2_bit_only_iOS_9_3_5_JailbreakUITests.m */; };
+		AACA5C2E1E6F9F3400608470 /* iPad Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AACA5C2D1E6F9F3400608470 /* iPad Main.storyboard */; };
 		AAF4C4691E64CD90009577DC /* jailbreak.m in Sources */ = {isa = PBXBuildFile; fileRef = AAF4C4681E64CD90009577DC /* jailbreak.m */; };
 /* End PBXBuildFile section */
 
@@ -54,6 +55,7 @@
 		AA6A81AE1E53EBE700F3C71B /* 32 bit only iOS 9.3.5 JailbreakUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "32 bit only iOS 9.3.5 JailbreakUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA6A81B21E53EBE700F3C71B /* _2_bit_only_iOS_9_3_5_JailbreakUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _2_bit_only_iOS_9_3_5_JailbreakUITests.m; sourceTree = "<group>"; };
 		AA6A81B41E53EBE700F3C71B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AACA5C2D1E6F9F3400608470 /* iPad Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "iPad Main.storyboard"; sourceTree = "<group>"; };
 		AAF4C4681E64CD90009577DC /* jailbreak.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = jailbreak.m; sourceTree = "<group>"; };
 		AAF4C46A1E64D0A4009577DC /* devicesupportall32bits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = devicesupportall32bits.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -111,6 +113,7 @@
 				AA6A81901E53EBE600F3C71B /* ViewController.h */,
 				AA6A81911E53EBE600F3C71B /* ViewController.m */,
 				AA6A81931E53EBE600F3C71B /* Main.storyboard */,
+				AACA5C2D1E6F9F3400608470 /* iPad Main.storyboard */,
 				AAF4C4681E64CD90009577DC /* jailbreak.m */,
 				AAF4C46A1E64D0A4009577DC /* devicesupportall32bits.h */,
 				AA6A81991E53EBE700F3C71B /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			files = (
 				AA6A819D1E53EBE700F3C71B /* LaunchScreen.storyboard in Resources */,
 				AA6A819A1E53EBE700F3C71B /* Assets.xcassets in Resources */,
+				AACA5C2E1E6F9F3400608470 /* iPad Main.storyboard in Resources */,
 				AA6A81951E53EBE600F3C71B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
